@@ -40,17 +40,19 @@ Starter template for [Alpine](https://alpine.nuxt.space).
 Time Traveller expounds idea, fire burns, incandescent lights glow, chairs comfort, after-dinner atmosphere, man debates with others, Time Traveller discusses fourth dimension, young man smokes cigar, Provincial Mayor concentrates, Time Traveller works on 4D geometry, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## II. The Machine 
+ ![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/02-the-machine.png)
 
-Time Traveler presents machine, skeptical group, journey into future, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## III. The Time Traveller Returns
+ ![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/03-the-time-traveller-returns.png)
 four or five men already assembled in his drawing-room, His face was ghastly pale; his chin had a brown cut on it—a cut half-healed, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## IV. Time Travelling
+ ![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/04-time-travelling.png)
 Time travel begins, darkness and light, fast movement, vague landscape, buildings change, speed, exhilaration, curiosity and dread, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## V. In the Golden Age 
-
+ ![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/05-in-the-golden-age.webp)
 Creatures from future, fragile and sweet, creatures laugh, greet and touch, converse with gestures, flowers given, building colossal, entry grand, neglected garden, tall white flowers, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## VI. The Sunset of Mankind
