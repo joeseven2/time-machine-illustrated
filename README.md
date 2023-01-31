@@ -31,7 +31,7 @@ Starter template for [Alpine](https://alpine.nuxt.space).
 
 3. Describe in short one to three word comma separated descriptions this: 
 
-## general prompt
+## Midjourney base prompt
 
 , fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
@@ -84,18 +84,23 @@ Palace of Green Porcelain, deserted ruin, Skeleton remains, extinct creatures, f
 Night journey through wood, Morlocks close in, match illuminates escape, companion unconscious,time travelor,fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## XIII. The Trap of the White Sphinx
+ ![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/13-the-trap-of-the-white-sphinx.png)
 White Sphinx with Time Machine inside, time travelor trapped,  matches on fire,time travelor,fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## XIV. The Further Vision
+ ![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/14-the-further-vision.webp)
   ocean,   elizabethan Time machine, time travelor ,fusion of star wars , by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## XV. The Time Traveller’s Return
+![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/15-the-time-travellers-return.png)
 victorian age, home, time machine, time travelor,fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## XVI. After the Story
+![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/16-after-the-story.png)
 friends at a table, victorian age, time travelor,fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## Epilogue
+![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/17-epilogue.webp)
 time machine, victorian age, time travelor,fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 # The Time Machine by H. G. Wells
