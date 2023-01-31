@@ -75,7 +75,7 @@ Golden age, subterranean ventilation, convenience gap, aging/infirmity, automati
  ![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/10-when-night-came.webp)
 Time Traveler, explores,fears Morlocks,Escape hope falters, inhuman Morlocks, impending darkness, meat memory, arm oneself, search for refuge, long walk to Palace, sunset, Weena picks flowers, jacket change,fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
-# XI. The Palace of Green Porcelain
+## XI. The Palace of Green Porcelain
  ![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/11-the-palace-of-green-porcelain.png)
 Palace of Green Porcelain, deserted ruin, Skeleton remains, extinct creatures, fossils, silent, Natural history, mineral gallery, sulphur, gunpowder. Shrivelled stuffed animals, mummies, brown dust. Colossal, ill-lit gallery,matches on fire, time travelor, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
