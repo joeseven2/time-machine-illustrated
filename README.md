@@ -1,61 +1,27 @@
+ # The Time Machine
+ ## By H.G. Wells
+
+  ![Time Traveller expounds idea, fire burns, incandescent lights glow, chairs comfort, after-dinner atmosphere, man debates with others, Time Traveller discusses fourth dimension, young man smokes cigar, Provincial Mayor concentrates, Time Traveller works on 4D geometry](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/01-introduction.webp)
+
+## This is a blog style illustrated book of “The Time Machine”
+ https://www.gutenberg.org/cache/epub/35/pg35-images.html
+
+ ## Nuxt document-driven Markdown-based site
+ https://content.nuxtjs.org/guide/writing/document-driven/
+https://www.markdownguide.org/basic-syntax/
+
+## Chat GPT to assist with image prompts
+https://openai.com/blog/chatgpt/
+
+## Midjourney Discord based image creation
+https://midjourney.com/home/
+
+
 # Alpine Starter
 
 Starter template for [Alpine](https://alpine.nuxt.space).
 
-## Clone
-
-Clone the repository (using `nuxi`):
-
-```bash
-npx nuxi init -t themes/alpine
-```
-
-## Setup
-
-Install dependencies:
-
-```bash
-pnpm install
-```
-
-## Development
-
-```bash
-pnpm dev
-```
-
-## Edge Side Rendering
-
-Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
-
-Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
-
-```bash
-pnpm build
-```
-
-## Static Generation
-
-Use the `generate` command to build your application.
-
-The HTML files will be generated in the .output/public directory and ready to be deployed to any static compatible hosting.
-
-```bash
-pnpm generate
-```
-
-## Preview build
-
-You might want to preview the result of your build locally, to do so, run the following command:
-
-```bash
-pnpm preview
-```
-
----
-
-For a detailed explanation of how things work, check out [Alpine](https://alpine.nuxt.space).
-
+ 
 # prompts
 
 ## chat gpt 
