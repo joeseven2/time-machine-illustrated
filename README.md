@@ -25,11 +25,8 @@ Starter template for [Alpine](https://alpine.nuxt.space).
 # prompts
 
 ## chat gpt 
-1. Describe the main scene in this in vivid detail, limit to two sentenses: 
 
-2. Describe this scene in one to four word descriptions. Each description separated by commas. Total word count less than 120: 
-
-3. Describe in short one to three word comma separated descriptions this: 
+Describe this scene in one to four word descriptions. Each description separated by commas. Total word count less than 120: 
 
 ## Midjourney base prompt
 
