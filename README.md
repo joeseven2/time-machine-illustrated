@@ -32,8 +32,10 @@ Describe this scene in one to four word descriptions. Each description separated
 
 fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
-## introduction
 
+# Midjourney Prompts and Images
+## introduction
+ ![](https://raw.githubusercontent.com/joeseven2/time-machine-illustrated/main/public/articles/01-introduction.webp)
 Time Traveller expounds idea, fire burns, incandescent lights glow, chairs comfort, after-dinner atmosphere, man debates with others, Time Traveller discusses fourth dimension, young man smokes cigar, Provincial Mayor concentrates, Time Traveller works on 4D geometry, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## II. The Machine 
