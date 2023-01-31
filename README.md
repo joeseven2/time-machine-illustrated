@@ -30,7 +30,7 @@ Describe this scene in one to four word descriptions. Each description separated
 
 ## Midjourney base prompt
 
-, fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
+fusion of star wars and gothic revival architecture, by marc simonetti, natural volumetric lighting, realistic 4k octane beautifully detailed render, 4k post-processing
 
 ## introduction
 
